@@ -6,14 +6,13 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'm784488775-dd1ad84b209c05f8e185c33e',
-    'm784490063-7b5da437e7f1e0d67613714d',
-    'm784497419-de55aa09902ccb3ab22d548a',
-    'm784496436-71a4bf7b1e3bdf7756be131b',
+    'm797863415-c1e4866ad1f5338a84e1f09c',
+    'm797863422-7491ddb054ace8292d4dc0d8',
+    'm797863434-0a6d281b02f98ca488c06dc7'
   ],
 
   // 日志天数
-  CountDays: 90,
+  CountDays: 60,
 
   // 是否显示检测站点的链接
   ShowLink: true,
@@ -21,16 +20,8 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
-      url: 'https://status.org.cn/'
-    },
-    {
-      text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
-    },
-    {
-      text: 'Blog',
-      url: 'https://abo.xyz/'
-    },
+      text: 'Home',
+      url: 'https://www.cws.plus/'
+    }
   ],
 };
